@@ -14,7 +14,7 @@ Hello, my fellow italian brothers and sisters! It's me, you're pal and paisano G
 
 ### Paisano Arcade
 
-[Garfolm presents to you his selection of games! Come on down to Paisano Arcade!](https://garfolm.github.io/Garfolm/PaisanoArcade)
+[Garfolm presents to you his selection of games! Come on down to Paisano Arcade!](https://github.com/Garfolm/Paisano-Arcade)
 
 
 
