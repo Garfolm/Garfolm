@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Garfolm's Mafioso Site! 
 
-You can use the [editor on GitHub](https://github.com/Garfolm/MainGarfolm/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, my fellow italian brothers and sisters! It's me, you're pal and paisano Garfolm! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[You can check out Garfolm Comics here.](https://garfolm.tumblr.com/)
 
-### Markdown
+### Links to other projects 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Megaman Sprite Halloween - A meme game based off of the Megaman Sprite Game Series.](http://gamejolt.com/games/megaman-sprite-halloween/224347) 
 
-```markdown
-Syntax highlighted code block
+### Paisano Chat 
 
-# Header 1
-## Header 2
-### Header 3
+<script id="cid0020000145969470206" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 250px;height: 350px;">{"handle":"garfolmpaisanos","arch":"js","styles":{"a":"383838","b":100,"c":"FFFFFF","d":"FFFFFF","k":"383838","l":"383838","m":"383838","n":"FFFFFF","p":"9","q":"383838","r":100,"cnrs":"0.35"}}</script>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Garfolm/MainGarfolm/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
