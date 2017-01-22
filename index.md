@@ -18,7 +18,7 @@ Hello, my fellow italian brothers and sisters! It's me, you're pal and paisano G
 
 ### Original Games For Paisanos
 
-[Garfolm's Paisano Racing](https://garfolm.github.io/PaisanoRacing/)
+[Garfolm's Paisano Racing](http://www.newgrounds.com/portal/view/687691)
 
 
 
